@@ -150,12 +150,13 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         jLabel3.setText(String.valueOf(n));
         //Comentyario
         n++;
-        n++;
+        n+=2;
         
         Calendar c = Calendar.getInstance();
         
-        //FIXME: Esto está mal
         //TODO: 
+        
+        //Sigo probando el GitHub
         
     }//GEN-LAST:event_jButton1ActionPerformed
 
